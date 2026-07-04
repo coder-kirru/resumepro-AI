@@ -1,0 +1,6 @@
+{
+  "name": "ResumePro AI",
+  "description": "Modern and responsive AI Resume Builder featuring real-time live preview, multiple premium templates, ATS compatibility checking, AI-generated summary, skill suggestions, cover letter generation, and section ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
